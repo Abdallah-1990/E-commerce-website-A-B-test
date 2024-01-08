@@ -1,4 +1,7 @@
-In this project,
+### Technologies
+* Python
+* SciPy, Pandas, NumPy, Matplotlib
+### Project description
 <ul>
 <li>Using python, an A/B test was implemented to understand the results which was ran by an e-commerce website.</li>
 
